@@ -1,0 +1,10 @@
+Ogre   - Barack
+Elf    - Alexis
+Human  - Samuel
+Human  - Andrew
+Elf    - Joseph
+Ogre   - George
+Wizard - Hannah
+Ogre   - Hilary
+Ogre   - Donald
+Wizard - Robert
